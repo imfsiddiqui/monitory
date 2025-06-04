@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: monitory
+description: 🎞️ A modular system for live video monitoring with real-time streaming and remote control capabilities.
+show_downloads: true
+collections:
+  pages:
+    output: true          # Generates HTML files for each file
+    permalink: /:path/    # URL structure for collection items
