@@ -46,15 +46,15 @@ This file contains a list of tasks, improvements, and ideas for this project.
 
 ### ✨ Features
 
-- [ ]
+-
 
 ### 🐛 Bugs
 
-- [ ]
+-
 
 ### ♻️ Refactoring
 
-- [ ]
+-
 
 <p align="right">(<a href="#top">🔝 back to top</a>)</p>
 
