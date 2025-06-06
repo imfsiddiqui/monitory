@@ -10,7 +10,7 @@ client = TestClient(app)
 
 def test_create_user():
     user_data = UserCreate(username="testuser", email="test@example.com", password="password")
-    response = client.post("/users/", json=user_data.dict())
+    response = client.post("/users/", json=user_data.model_dump())
     assert response.status_code == 201
     created_user = response.json()
     assert created_user["username"] == user_data.username
@@ -24,7 +24,7 @@ def test_get_user():
 
 def test_create_user_duplicate():
     user_data = UserCreate(username="testuser", email="test@example.com", password="password")
-    response = client.post("/users/", json=user_data.dict())
+    response = client.post("/users/", json=user_data.model_dump())
     assert response.status_code == 400  # Assuming duplicate username returns 400
 
 def test_delete_user():
