@@ -1,0 +1,10 @@
+FastAPI
+uvicorn
+SQLAlchemy
+pydantic
+python-jose
+passlib[bcrypt]
+alembic
+pytest
+httpx
+dotenv
