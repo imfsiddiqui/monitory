@@ -4,7 +4,7 @@
 
 <div align=center>
 
-🌍 **[Web Page](https://imfsiddiqui.github.io/monitory)** | 💻 **[Source Code](https://github.com/imfsiddiqui/monitory)**
+🌍 **[Web Page](https://imfsiddiqui.github.io/monitory)** | 💻 **[Source Code](https://github.com/imfsiddiqui/monitory)** | 🚀 **[Releases](https://github.com/imfsiddiqui/monitory/releases)**
 
 </div>
 
