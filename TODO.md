@@ -2,12 +2,6 @@
 
 <a id="top"></a>
 
-<div align=center>
-
-🌍 **[Web Page](https://imfsiddiqui.github.io/monitory)** | 💻 **[Source Code](https://github.com/imfsiddiqui/monitory)**
-
-</div>
-
 # 📝 TODO
 
 This file contains a list of tasks, improvements, and ideas for this project.
@@ -60,6 +54,6 @@ This file contains a list of tasks, improvements, and ideas for this project.
 
 ---
 
-📌 **Last updated:** ***June 04, 2025***
+📌 **Last updated:** ***June 07, 2025***
 
 <p align="right">(<a href="#top">🔝 back to top</a>)</p>
