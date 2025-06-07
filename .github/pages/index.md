@@ -9,11 +9,11 @@ layout: default
 <div align=center>
 
 <p>
-  🌍 <strong><a href="https://imfsiddiqui.github.io/monitory">Web Page</a></strong>
+  🌍 <strong><a href="https://imfsiddiqui.github.io/{{ site.repository_name }}">Web Page</a></strong>
   |
-  💻 <strong><a href="https://github.com/imfsiddiqui/monitory">Source Code</a></strong>
+  💻 <strong><a href="https://github.com/imfsiddiqui/{{ site.repository_name }}">Source Code</a></strong>
   |
-  🚀 <strong><a href="https://github.com/imfsiddiqui/monitory/releases">Releases</a></strong>
+  🚀 <strong><a href="https://github.com/imfsiddiqui/{{ site.repository_name }}/releases">Releases</a></strong>
 </p>
 
 </div>
