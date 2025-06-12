@@ -25,7 +25,7 @@ class Settings(BaseSettings):
     cors_origins: list[str] = Field(["*"], env="CORS_ORIGINS")
 
     class Config:
-        env_file = ".env"
+        env_file = f".env.{os.getenv('ENVIRONMENT', 'dev')}"
         env_file_encoding = "utf-8"
         extra = "ignore"  # Ignore extra env variables
 
